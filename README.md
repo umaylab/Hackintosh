@@ -16,4 +16,5 @@ Installation hackintosh device
 
   ### Process Installation
   - Create Bootabel USB MacOS with OpenCore Patcher
-  - Download EFIn from OLLARIA
+  - Download EFI from OLLARIA (Desktop AlderLake and RaptorLake)
+  - Edit VGA 
